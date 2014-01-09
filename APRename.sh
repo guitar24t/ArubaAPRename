@@ -37,7 +37,7 @@ if {[llength $en] > 0} {
 	send "\r"
 	expect "*>"
 	send "en\r"
-	expect "Password:"
+	expect "*assword:"
 	send "$enpass\r"
 	expect "#"
 }
