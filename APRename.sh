@@ -1,5 +1,5 @@
 #!/usr/bin/expect -f
-# Robert Hilton (rob@atlantic.com)
+# Robert Hilton (robert.a.hilton.jr@gmail.com)
 # Argument 0 is the CSV file input. CSV Format is header row PrevAPName,NewAPName then the data following the header row
 # Argument 1 is the IP address of the master controller
 # Argument 2 is the password for the admin user
